@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=0:791710,100:d12215&section=header&height=300&text=YoungMin-S&fontColor=281b1b&animation=scaleIn&desc=YoungMin-S's%20GitHub%20Profile&fontAlign=50&fontAlignY=44&descSize=25&descAlign=55)
 ***
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=3500&pause=1000&color=000000&center=true&multiline=true&repeat=false&random=false&lines=Welcome+My+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=3500&pause=3000&color=000000&center=true&multiline=true&repeat=true&random=false&lines=Welcome+My+GitHub)](https://git.io/typing-svg)
 # Information
 대학교 다니고 있는 대학생입니다.
 좋은 코딩이 나오기 위해 공부하고 있습니다...</br>
